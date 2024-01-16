@@ -1,0 +1,6 @@
+infrastructure/dsa-key.json
+infrastructure/.terraform/
+infrastructure/terraform.tfstate
+infrastructure/.terraform.lock.hcl
+chave_acesso_bigquery.json
+Pipfile.lock
